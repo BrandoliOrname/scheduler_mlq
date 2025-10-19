@@ -1,4 +1,4 @@
-# scheduler_mlq_so
+# scheduler_mlq
 # Simulador MLQ (Multilevel Queue Scheduling)
 
 ## Descripción
@@ -44,3 +44,4 @@ Brandon Alexis Franco Flor
 
 ## Curso
 Sistemas Operativos - Universidad del Valle
+
